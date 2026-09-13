@@ -1,0 +1,19 @@
+schema_version = "1.0.0"
+
+id = "b_hair_shapekey"
+version = "1.0.0"
+name = "B Hair ShapeKey"
+tagline = "Direct Hair Curves Shape Keys with working sculpt deformation"
+maintainer = "Dinesh007"
+type = "add-on"
+tags = ["Animation", "Sculpt", "Rigging", "Modeling"]
+
+blender_version_min = "5.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+copyright = [
+  "2026 Dinesh007",
+]
